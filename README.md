@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 Usage
 Clone this repository:
-git clone https://github.com/yourusername/industrial-copper-modeling.git
+git clone [[https://github.com/yourusername/industrial-copper-modeling.git](https://github.com/aravinthbalaiyan/Industrial-Copper-Modeling/tree/main)](https://github.com/aravinthbalaiyan/Industrial-Copper-Modeling/tree/main)
 cd industrial-copper-modeling
 Place your dataset files in the data/ directory.
 
